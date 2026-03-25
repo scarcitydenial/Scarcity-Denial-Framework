@@ -1,8 +1,8 @@
 # Scarcity–Denial Framework
 
-**Author:** Philip Harry Galvin, Adelaide, South Australia, Australia
-**Established:** 2026
-**Contact:** Scarcity-Denial@protonmail.com
+- **Author:** Philip Harry Galvin, Adelaide, South Australia, Australia
+- **Established:** 2026
+- **Contact:** Scarcity-Denial@protonmail.com
 
 ---
 
