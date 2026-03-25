@@ -101,8 +101,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 - No derivative works without prior written approval
 - No commercial use or modification without prior written approval
 
-For commercial use, collaboration, or licensing enquiries:
-Scarcity-Denial@protonmail.com
+- For commercial use, collaboration, or licensing enquiries: Scarcity-Denial@protonmail.com
 ---
 
 *This repository is the sole authoritative public source for the
