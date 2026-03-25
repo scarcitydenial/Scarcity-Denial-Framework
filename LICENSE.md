@@ -1,6 +1,9 @@
 # Licence
 
-© Philip Harry Galvin 2026. The Scarcity–Denial Canon, all derived analytical instruments and operational documents, all run records, and all analytical outputs and findings produced using this framework are licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Free use for non-commercial purposes with attribution. No derivative works, commercial use or modification without the prior written approval from the author.
+© Philip Harry Galvin 2026. All rights reserved.  
+Governing law: Copyright Act 1968 (Cth), Commonwealth of Australia.
+
+All works in this repository - including the Scarcity–Denial Canon, SRIT, DAI DDA and all derived instruments and supporting documents, all briefing notes, all run records, and all analytical outputs and findings produced using this framework are licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Free use for non-commercial purposes with attribution. No derivative works, commercial use or modification without the prior written approval from the author.
 
 Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives
 4.0 International (CC BY-NC-ND 4.0).
