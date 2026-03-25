@@ -32,11 +32,7 @@ be built, relocated, or strengthened, and where.
 | DAI — Denial Architecture Interrogation | v1.7 | Maps and assesses the denial architecture against the binding scarcity |
 | DDA — Drift Detection Analysis | v1.5 | Detects and characterises downstream migration of the denial boundary |
 
-Instrument prompt files are in the `/instruments` folder.
-
-Supporting documents — Runtime Guide, User Manual, Run Setup Cards, 
-System Description Prep Card, Evidence Register — are in the 
-`/supporting-tools` folder.
+Instrument prompt and accompanying files are in the respective SRIT, DAI and DDA folders.
 
 ---
 
