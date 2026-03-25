@@ -111,3 +111,6 @@ Scarcity-Denial@protonmail.com
 
 *This repository is the sole authoritative public source for the
 Scarcity–Denial Canon and derived instruments.*
+
+*This licence applies to all files in this repository regardless of 
+whether an individual file carries an embedded copyright notice.*
