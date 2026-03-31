@@ -98,13 +98,13 @@ these four sentences.
 
 | Folder | Contents |
 |---|---|
-| `/Canon` | The four-sentence governing framework |
-| `/SRIT` | Scarce Resource Identification Tool |
-| `/DAI` | Denial Architecture Interrogation |
-| `/DDA` | Drift Detection Analysis |
-| `/run-records` | How to run the full three-module pipeline |
-| `Runtime-Guide` | How to interpret what each instrument produces |
-| `User-Manual` | Completed analytical run records |
+| `/Canon/` | The four-sentence governing framework |
+| `/Desktop-Model/SRIT/` | Scarce Resource Identification Tool |
+| `/Desktop-Model/DAI/` | Denial Architecture Interrogation |
+| `/Desktop-Model/DDA/` | Drift Detection Analysis |
+| `/Desktop-Model/run-records/` | Completed analytical run records |
+| `/Desktop-Model/Runtime-Guide` | How to run the full three-module pipeline |
+| `/Desktop-Model/User-Manual` | How to interpret what each instrument produces |
 
 ---
 
