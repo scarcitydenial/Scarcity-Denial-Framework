@@ -21,19 +21,17 @@ relocated, or strengthened, and where.
 
 Any system where a critical resource is scarce, the system
 depends on that scarcity being enforced at a specific decision
-point, and that systems performance remains sub-par despite sustained
+point, and that system's performance remains sub-par despite sustained
 institutional attention.
 
-Completed runs span rural water supply and electricity grid
-stability in West Africa. The candidate pipeline covers systems
-across Sub-Saharan Africa, South and Southeast Asia, and
-fragile-state infrastructure.
+The candidate pipeline covers systems across Sub-Saharan Africa,
+South and Southeast Asia, and fragile-state infrastructure.
 
 ---
 
 ## What it has found
 
-**Rural water supply failure, West Africa**
+**Rural water supply failure, West Africa** *(Evidence-informed model)*
 Scheme non-functionality is not caused by financing gaps or
 governance weakness. It is caused by a mislocated spare-parts
 supply chain authority architecture — the gate exists, but it
@@ -54,14 +52,13 @@ prior output:
 system stability. Not the most discussed resource. The one whose
 protection or failure determines whether the system holds.
 
-**DAI** — takes the binding scarce resource finding from SRIT as
-fixed and maps whether a denial architecture exists at the
+**DAI** — maps whether a denial architecture exists at the
 correct decision point, whether it is authoritative, and whether
 it is mislocated rather than merely absent.
 
-**DDA** —  takes the denial architecture finding from DAI as
-fixed and detects whether the denial boundary has drifted 
-downstream of the required decision point, how far, and what 
+**DDA** — takes the denial architecture finding from DAI as
+fixed and detects whether the denial boundary has drifted
+downstream of the required decision point, how far, and what
 minimum intervention would return it to the correct position.
 
 The framework runs on two AI platforms operating in parallel —
@@ -71,18 +68,36 @@ documentation is in this repository.
 
 ---
 
+## The governing framework
+
+The entire analytical logic traces back to four sentences:
+
+> *Every system is constrained by a scarce resource.*
+>
+> *Denial is the mechanism by which that constraint is enforced.*
+>
+> *System stability depends on denial being applied at a decision point consistent with the scarcity of that resource.*
+>
+> *Drift occurs when the denial boundary migrates downstream of the decision point required to protect that scarcity.*
+
+SRIT operationalises the first sentence. DAI operationalises
+the second and third. DDA operationalises the fourth. Every
+analytical decision in every instrument traces back to one of
+these four sentences.
+
+---
+
 ## What is in this repository
 
-| Folder            | Contents                                                   |
-| ----------------- | ---------------------------------------------------------- |
-| `/Canon`          | The four-sentence governing framework                      |
-| `/SRIT`           | Scarce Resource Identification Tool — current version v1.9 |
-| `/DAI`            | Denial Architecture Interrogation — current version v1.9   |
-| `/DDA`            | Drift Detection Analysis — current version v1.5            |
-| `/Runtime-Guide`  | How to run the full three-module pipeline                  |
-| `/User-Manual`    | How to interpret what each instrument produces             |
-| `/run-records`    | Completed analytical run records                           |
-| `/briefing-notes` | Institutional briefing notes from completed runs           |
+| Folder | Contents |
+|---|---|
+| `/Canon` | The four-sentence governing framework |
+| `/SRIT` | Scarce Resource Identification Tool |
+| `/DAI` | Denial Architecture Interrogation |
+| `/DDA` | Drift Detection Analysis |
+| `/Runtime-Guide` | How to run the full three-module pipeline |
+| `/User-Manual` | How to interpret what each instrument produces |
+| `/run-records` | Completed analytical run records |
 
 ---
 
@@ -95,10 +110,8 @@ attribution. No derivatives. See LICENSE.md.
 To discuss application to a specific system, request run records
 or briefing notes, or enquire about collaboration:
 Scarcity-Denial@protonmail.com
+
 ---
 
 *This repository is the sole authoritative public source for the
 Scarcity–Denial Canon and derived instruments.*
-
-*This licence applies to all files in this repository regardless of 
-whether an individual file carries an embedded copyright notice.*
