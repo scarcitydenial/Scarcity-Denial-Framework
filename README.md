@@ -77,7 +77,7 @@ documentation is in this repository.
 
 ## The governing framework
 
-The entire analytical logic traces back to four sentences:
+The framework is based on this four sentence Canon:
 
 > *Every system is constrained by a scarce resource.*
 >
