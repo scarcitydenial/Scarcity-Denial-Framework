@@ -49,7 +49,7 @@ minimum intervention would return it to the correct position.
 
 The framework runs on two AI API platforms operating in seperate session with a Python Runner orchestrating 2 sessions comprising —
 Claude Opus 4.7 as the analytical execution engine and Claude
-Opus 4.7 as the independent review layer. Full operational
+Opus 4.7 as the independent review layer.
 
 ---
 
