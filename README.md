@@ -25,6 +25,7 @@ point, and that system's performance remains sub-par despite sustained
 institutional attention.
 
 The latest system being analysed is as follows:
+
 System: ASIC's retail conduct framework as it operates across the licensed distribution chain in Australia — the framework through which ASIC licenses entities providing financial services to retail clients, prescribes how those entities must conduct themselves, and oversees the conduct of those entities in their dealings with retail clients.
 
 Failure Condition: Material financial harm to retail consumers accumulates across the licensed distribution chain over the analytical period, and becomes visible to ASIC through self-reported breaches, AFCA complaints, and remediation programmes.
