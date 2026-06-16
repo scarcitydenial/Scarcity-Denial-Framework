@@ -47,10 +47,9 @@ fixed and detects whether the denial boundary has drifted
 downstream of the required decision point, how far, and what
 minimum intervention would return it to the correct position.
 
-The framework runs on two AI platforms operating in parallel —
-ChatGPT GPT-5.4 (Plus plan and above) as the analytical execution engine and Claude
-Sonnet 4.6 (Pro plan and above) as the independent review layer. Full operational
-documentation is in this repository.
+The framework runs on two AI API platforms operating in seperate session with a Python Runner orchestrating 2 sessions comprising —
+Claude Opus 4.7 as the analytical execution engine and Claude
+Opus 4.7 as the independent review layer. Full operational
 
 ---
 
