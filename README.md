@@ -24,8 +24,12 @@ depends on that scarcity being enforced at a specific decision
 point, and that system's performance remains sub-par despite sustained
 institutional attention.
 
-The candidate pipeline covers systems across Sub-Saharan Africa,
-South and Southeast Asia, and fragile-state infrastructure.
+The latest system being analysed is as follows:
+System: ASIC's retail conduct framework as it operates across the licensed distribution chain in Australia — the framework through which ASIC licenses entities providing financial services to retail clients, prescribes how those entities must conduct themselves, and oversees the conduct of those entities in their dealings with retail clients.
+
+Failure Condition: Material financial harm to retail consumers accumulates across the licensed distribution chain over the analytical period, and becomes visible to ASIC through self-reported breaches, AFCA complaints, and remediation programmes.
+
+Time Horizon: 5–10 years, ending at the analysis date.
 
 ---
 
